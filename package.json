@@ -1,6 +1,6 @@
 {
-  "_from": "@reactioncommerce/api-plugin-payments-stripe-sca@1.0.2",
-  "_id": "@reactioncommerce/api-plugin-payments-stripe-sca@1.0.2",
+  "_from": "@reactioncommerce/api-plugin-payments-stripe-sca@1.0.3",
+  "_id": "@reactioncommerce/api-plugin-payments-stripe-sca@1.0.3",
   "_inBundle": false,
   "_integrity": "sha512-2TzsjgsaKqCBsUJi2iATtPL8ASgcOC9xExLBp3cpwoD9zOrapixBs+4+RN1MeY46C5z0caCuEqGsBNO4YjYzuw==",
   "_location": "/@reactioncommerce/api-plugin-payments-stripe-sca",
@@ -13,7 +13,7 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "@reactioncommerce/api-plugin-payments-stripe-sca@1.0.2",
+    "raw": "@reactioncommerce/api-plugin-payments-stripe-sca@1.0.3",
     "name": "@reactioncommerce/api-plugin-payments-stripe-sca",
     "escapedName": "@reactioncommerce%2fapi-plugin-payments-stripe-sca",
     "scope": "@reactioncommerce",
@@ -26,7 +26,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/@reactioncommerce/api-plugin-payments-stripe-sca/-/api-plugin-payments-stripe-sca-1.0.2.tgz",
   "_shasum": "254b40d93060d61031faa007114fa50f7adb14a6",
-  "_spec": "@reactioncommerce/api-plugin-payments-stripe-sca@1.0.2",
+  "_spec": "@reactioncommerce/api-plugin-payments-stripe-sca@1.0.3",
   "_where": "/home/awahab1116/check-intempco/reaction-cli",
   "author": {
     "name": "Mailchimp Open Commerce",
@@ -116,5 +116,5 @@
   "sideEffects": false,
   "type": "module",
   "url": "https://github.com/reactioncommerce/api-plugin-payments-stripe-sca",
-  "version": "1.0.2"
+  "version": "1.0.3"
 }
